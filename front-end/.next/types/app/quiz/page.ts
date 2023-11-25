@@ -1,4 +1,4 @@
-// File: /Users/elijah/Documents/Phyton/FirstApi/front-end/app/quiz/page.js
+// File: /workspaces/workspace/front-end/app/quiz/page.js
 import * as entry from '../../../../app/quiz/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
